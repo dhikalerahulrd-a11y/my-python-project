@@ -12,3 +12,6 @@ print("feature3")
 print("Updated feature1")
 print("Updated feature2")
 print("updated feature3")
+
+#Fix the code properly
+print("bug remove")
